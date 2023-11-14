@@ -1,5 +1,5 @@
-#ifndef HOLBERTON_H
-#define HOLBERTON_H
+#ifndef PRINT_H
+#define PRINT_H
 
 #include <stdio.h>
 #include <stdlib.h>
